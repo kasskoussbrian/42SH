@@ -1,0 +1,2 @@
+ls / # exist
+echo $? #should be zero

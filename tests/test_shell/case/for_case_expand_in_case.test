@@ -1,0 +1,8 @@
+
+for a in 1 bolito 3 4 5 abidhan 7 8 9;
+do
+    case $a in
+    $c ) echo special expand;;
+    $a ) echo default tricky
+    esac
+done

@@ -1,0 +1,4 @@
+for i in {0. .8. .2}
+do
+  echo "Hi $i"
+done

@@ -1,0 +1,2 @@
+ls /tmp ABCD > dirlist 2>&1; cat dirlist
+rm dirlist

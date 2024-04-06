@@ -1,0 +1,5 @@
+teo=victoire_rose
+
+export teo
+
+env | grep teo

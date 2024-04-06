@@ -1,0 +1,1 @@
+true || echo "RIEN" && echo "l1" || false && echo "l2" || echo "r" && echo "l3" && false

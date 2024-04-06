@@ -1,0 +1,2 @@
+echo "Pipeline with bang"
+! false

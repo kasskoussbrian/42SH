@@ -1,0 +1,9 @@
+a=12
+b=13
+c=14
+
+echo $a $b $c
+
+unset a b c d
+
+echo $a $b $c

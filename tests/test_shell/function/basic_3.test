@@ -1,0 +1,7 @@
+my_function ()
+{
+  echo "some result"
+  exit 55
+}
+
+my_function

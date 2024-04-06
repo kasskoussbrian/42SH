@@ -1,0 +1,2 @@
+echo "brace group"
+{ echo "a b"; echo "c d"; } | sed s/c/C/

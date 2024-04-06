@@ -1,0 +1,22 @@
+for a in 1 2 3 4 5;
+do
+    echo $a
+    for b in 1 2 3 4 5;
+    do
+        echo $b
+        for c in 1 2 3 4 5;
+        do
+            echo $c
+            for d in 1 2 3 4 5;
+            do
+                echo $d
+                continue 4;
+                echo $d 4eme continue;
+            done
+            echo $c 3eme continue;
+        done
+        echo $b 2eme continue;
+    done
+    echo $a 1eme continue;
+done
+echo dernier continue;

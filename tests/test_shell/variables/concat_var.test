@@ -1,0 +1,5 @@
+a=robin
+b=katia
+c=aime
+d="$a $b $c"
+echo $d

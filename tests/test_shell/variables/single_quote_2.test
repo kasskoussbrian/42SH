@@ -1,0 +1,3 @@
+titi='jaime la carotte'
+echo "$titi $titi"
+echo $titi

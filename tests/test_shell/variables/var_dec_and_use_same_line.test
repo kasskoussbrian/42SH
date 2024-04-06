@@ -1,0 +1,4 @@
+a=2 echo $a
+echo $b b=3
+echo $a a=3
+echp $a

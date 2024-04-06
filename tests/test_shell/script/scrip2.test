@@ -1,0 +1,13 @@
+for a in a b c d e f;do
+    for b in z y x; do
+        echo $b;
+        if false | true | false || true|false|true; then echo $a;fi
+        for c in echo toto ]; do
+            echo $c;
+            break;
+        done;
+        echo toto;
+        break 10;
+    done;
+done;
+echo $b

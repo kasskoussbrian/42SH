@@ -1,0 +1,1 @@
+false || false || echo "ca s'affiche normalement"

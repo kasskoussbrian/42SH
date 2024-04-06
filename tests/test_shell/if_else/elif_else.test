@@ -1,0 +1,8 @@
+if false; then false; elif true; then echo 'coverage'; else false; fi;
+if false; then false; elif false; then false;  else echo COVERAGE; fi;
+
+if false; then false; elif true; th echo 'coverage'; else false; fi;
+
+if false; then false; elif true; then if else 'coverage'; else false; fi;
+
+if false; then false; elif true; then if else 'coverage'; else if; fi;

@@ -1,0 +1,8 @@
+a=re
+b=set
+c=$a$b
+echo $c
+a=t
+echo $c
+c=$a$b
+echo $c

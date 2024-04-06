@@ -1,0 +1,1 @@
+echo -e "La tu comptes le nombre de mot" | wc -w

@@ -1,0 +1,1 @@
+echo abcd; echo bdef; seq 5 > file.txt; cat file.txt;

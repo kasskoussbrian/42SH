@@ -1,0 +1,1 @@
+false || echo "ligne 1" && echo "ligne 2" || echo "rien s'affiche"

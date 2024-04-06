@@ -1,0 +1,20 @@
+hello_world ()
+{
+   echo 'hello, world'
+}
+
+hello_world
+
+hello_world=12
+
+echo $hello_world
+
+unset hello_world
+
+hello_world
+echo $hello_world
+
+unset hello_world
+
+hello_world
+echo $hello_world

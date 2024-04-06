@@ -1,0 +1,2 @@
+teo=` basename $0 `
+echo "Le nom de ce script est $teo."

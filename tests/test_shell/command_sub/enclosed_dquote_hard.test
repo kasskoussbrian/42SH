@@ -1,0 +1,1 @@
+echo $(echo "$( echo abcd )" "\a" "`echo abcd`" "$abcd" "${abcd}" )

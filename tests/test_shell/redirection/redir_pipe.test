@@ -1,0 +1,1 @@
+ls -l | grep ".txt" > redir_pipe.txt

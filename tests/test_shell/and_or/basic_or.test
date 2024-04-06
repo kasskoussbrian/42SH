@@ -1,0 +1,1 @@
+echo "ca s'affiche" || echo "ca s'affiche pas"

@@ -1,0 +1,4 @@
+while false
+do
+  echo "Ca echo pas normalement bg"
+done

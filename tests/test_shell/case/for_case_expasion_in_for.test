@@ -1,0 +1,13 @@
+echo tesing expand a c
+
+b=bolito
+c=abidhan
+
+
+for sdsa in 1 3 4 $c  5 $a 8 9;
+do
+    case ds in
+    c) echo special expand;;
+    *) echo default
+    esac
+done

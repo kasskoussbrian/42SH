@@ -1,0 +1,5 @@
+a=ya b=k c=a d=' '
+echo $a
+echo $b
+echo $c
+echo $d

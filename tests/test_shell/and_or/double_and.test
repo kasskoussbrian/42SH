@@ -1,0 +1,1 @@
+echo "ligne 1" && echo "ligne 2" && echo "ligne 3"

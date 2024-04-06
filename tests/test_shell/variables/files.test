@@ -1,0 +1,10 @@
+robin=abcd
+teo=defg
+echo $robin > file1.txt
+echo $teo > file2.txt
+cat file1.txt file2.txt
+brian=lol
+arthur=zizi
+echo ${brian} > file3.txt
+echo ${arthur} > file4.txt
+cat file3.txt file4.txt

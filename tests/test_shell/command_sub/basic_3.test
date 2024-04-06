@@ -1,0 +1,2 @@
+teo=``
+echo "Le nom de ce script est $teo."

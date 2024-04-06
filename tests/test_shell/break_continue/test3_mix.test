@@ -1,0 +1,20 @@
+for a in 1 2 3 4 5;
+do
+    echo a = $a
+    for b in 1 2 3 4 5;
+    do
+        echo b = $b
+        for c in 1 2 3 4 5;
+        do
+            echo c = $c
+            for d in 1 2 3 4 5;
+            do
+                echo d = $d
+                break 1;
+            done
+            continue 1;
+        done
+        echo before continue 3
+        continue 3;
+    done
+done

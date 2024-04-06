@@ -1,0 +1,2 @@
+(exit 56)
+echo $? #should be three

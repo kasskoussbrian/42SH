@@ -1,0 +1,1 @@
+IFS=""; echo $(echo -e ' COV' '  ER' '   AGE' '\n\n\n')

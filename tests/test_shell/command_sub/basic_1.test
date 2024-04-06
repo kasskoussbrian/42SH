@@ -1,0 +1,3 @@
+a="julia/milena/julie/julia/marie/jevousaime"
+teo=`basename $a`
+echo "Le nom de ce script est $teo."

@@ -1,0 +1,9 @@
+cd /tmp
+echo $PWD $OLDPWD
+mkdir tmpe
+cd tmpe
+
+echo $PWD $OLDPWD
+cd --
+rm -r tmpe
+echo $PWD $OLDPWD

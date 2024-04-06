@@ -1,0 +1,20 @@
+for a in 1 2 3 4 5;
+do
+    echo $a
+    for b in 1 2 3 4 5;
+    do
+        echo $b
+        for c in 1 2 3 4 5;
+        do
+            echo $c
+            for d in 1 2 3 4 5;
+            do
+                case $d in
+                    2) continue 3;
+                    4) break 4;
+                echo $d
+                break 4;
+            done
+        done
+    done
+done

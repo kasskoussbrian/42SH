@@ -1,0 +1,4 @@
+echo abcd > file.text
+cat file.text
+echo bcdef >> file.text
+cat file.text

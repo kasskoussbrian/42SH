@@ -1,0 +1,9 @@
+for e in 1 2 3 4 5;
+do
+    echo $e;
+    case $e in
+        3) break
+    esac
+    break 2;
+done
+continue 1;

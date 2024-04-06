@@ -1,0 +1,8 @@
+
+case a in
+    a)  case a in
+            b) case a in
+                1) echo third one
+                esac
+        esac
+esac
