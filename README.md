@@ -2,9 +2,7 @@
 
 ## This is the repository of our 42sh project: A POSIX compliant shell.
 
-In memory of Rose, Jose And Klervi. (sans oublier BIEN EVIDEMMENT les big julie et andrea <3)
-
-Were going to fuck everyone (RObin was telling me while writing this thtat the coach could see this : robin shut fthe fuck up )
+We wanted to beat everyone and thats what we did. @robin | @teo | @arthur | @ brian
 
 ## NOTES
 
