@@ -4,6 +4,17 @@
 
 We wanted to beat everyone and thats what we did. @robin | @teo | @arthur | @ brian
 
+
+# How to run the shell ? :
+
+1 ) autoreconf --install ( make sure to have the latest version installed)
+
+2 ) ./configure
+
+3 ) make or make check to run the testsuite
+
+
+
 ## NOTES
 
 - 10/01: Created a standard for the parser:
