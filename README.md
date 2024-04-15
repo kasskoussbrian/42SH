@@ -13,6 +13,11 @@ We wanted to beat everyone and thats what we did. @robin | @teo | @arthur | @ br
 
 3 ) make or make check to run the testsuite
 
+Now that you have the binary you can run these command: 
+./42sh -c {the command as a string}
+./42sh {the bash file you want to run}
+./42sh to lauch the interactive terminal ( It shouldn't work on all the commands there are some bugs to fix)
+
 
 
 ## NOTES
